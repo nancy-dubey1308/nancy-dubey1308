@@ -17,6 +17,6 @@ Third-year B.Tech CSE student at **IILM University**, aiming for a software deve
 - Introduction to Cloud Computing, Infosys
 
 ## Connect with me
-- LinkedIn: [your LinkedIn URL]
-- Email: [your professional email]
-- LeetCode: [your LeetCode URL]
+- LinkedIn: https://www.linkedin.com/in/nancy-dubey308/
+- Email: nancydubey1812@gmail.com
+- LeetCode: https://leetcode.com/u/nancydu_14/
