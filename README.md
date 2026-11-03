@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Nancy 👋
 
-<!--
-**nancy-dubey1308/nancy-dubey1308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Third-year B.Tech CSE student at **IILM University**, aiming for a software developer internship in Summer 2027.
 
-Here are some ideas to get you started:
+## What I'm working on
+- 🔨 Building an **Inventory & Order Management System** in C++ and MySQL
+- 🧩 Solving DSA problems daily on LeetCode in C++
+- 🌐 Learning HTML, CSS, JavaScript, then Node.js and MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech I use
+**Languages:** C++, Python, SQL, JavaScript, HTML, CSS
+**Tools:** Git, GitHub, VS Code, MySQL
+
+## Certifications
+- Python Programming (AD141-RHA), Red Hat
+- Generative AI Foundations, AWS Academy
+- Introduction to Cloud Computing, Infosys
+
+## Connect with me
+- LinkedIn: [your LinkedIn URL]
+- Email: [your professional email]
+- LeetCode: [your LeetCode URL]
